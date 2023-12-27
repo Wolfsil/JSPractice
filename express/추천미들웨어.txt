@@ -1,6 +1,0 @@
-1. 도스 공격 대비: express-rate-limit
-2. 쿠키: cookie-parser
-3. 보안에 참좋은: helmet
-4. 세션: express-session
-5. 교차 출처를 위해: cors
-6. 파일 업로드: multer+ multer s3// express-fileupload
